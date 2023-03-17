@@ -1,0 +1,3 @@
+[submodule "damn"]
+	path = damn
+	url = https://github.com/priamai/stix-client
